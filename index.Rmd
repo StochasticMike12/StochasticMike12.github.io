@@ -1,24 +1,25 @@
 ---
-title: "Willkommen!"
+title: "Miguel Ángel Flores Varela"
 image: "autor.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
   - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://github.com/StochasticMike12"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:mfvarela@lcg.unam.mx"
 output:
   postcards::onofre
 ---
  
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+Soy estudiante de la licenciatura en Ciencias Genómicas de la UNAM, 
+Actualmente me encuentro trabajando con el doctor Miguel Angel Carlos
+Cevallos Gaos en su laboratorio de genómica evolutiva donde trabajo con 
+bacterias y empleo diversas técnicas de biología molecular.
+Actualmente estoy en el cuarto semestre de la licenciatura, he diversas
+cosas sobre programación, bioinformática, biología molecular, bioquímica,
+entre otras áreas de las ciencias de la vida. 
+Deseo dedicarme a la investigación e ingresar a un doctorado después de la
+licenciatura. También estoy aplicando para una estancia de verano en Viena
+este año.
