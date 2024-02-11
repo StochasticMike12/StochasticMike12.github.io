@@ -1,25 +1,37 @@
 ---
-title: "Miguel Ángel Flores Varela"
+title: "Miguel Varela"
 image: "autor.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
 links:
-  - label: YouTube
-    url: "https://github.com/StochasticMike12"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/miguel-%C3%A1ngel-flores-varela-810a41213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0C%2BP2VYsRU%2BNesmUD%2F%2Bj4g%3D%3D"
+  - label: Twitter
+    url: "https://twitter.com/StochasticMike"
+  - label: GitHub
+    url: "https://github.com/StochasticMike12/python_class"
   - label: Email
     url: "mailto:mfvarela@lcg.unam.mx"
 output:
-  postcards::onofre
+  postcards::trestles
 ---
  
-Soy estudiante de la licenciatura en Ciencias Genómicas de la UNAM, 
-Actualmente me encuentro trabajando con el doctor Miguel Angel Carlos
-Cevallos Gaos en su laboratorio de genómica evolutiva donde trabajo con 
-bacterias y empleo diversas técnicas de biología molecular.
-Actualmente estoy en el cuarto semestre de la licenciatura, he diversas
-cosas sobre programación, bioinformática, biología molecular, bioquímica,
-entre otras áreas de las ciencias de la vida. 
-Deseo dedicarme a la investigación e ingresar a un doctorado después de la
-licenciatura. También estoy aplicando para una estancia de verano en Viena
-este año.
+## Bio
+
+Me encuentro estudiando la licenciatura en Ciencias Genómicas en el campus Morelos de la UNAM.
+Actualmente me encuentro colaborando en un proyecto de investigación sobre la microbiota bacteriana de salamandras resistentes a la quitridiomicosis con el doctor Miguel Ángel Cevallos Gaos, 
+Hen el laboratorio de Genómica Evolutiva del Centro de Ciencias Genómicas. 
+Estoy especialmente interesado en la biología molecular, virología, inmunología y bioinformática, por lo que me encuentro en búsqueda de proyectos en estas áreas para aprender y colaborar con mis conocimientos.
+
+## Education
+
+**Escuela Nacional Preparatoria Número 9 "Pedro de Alba"** | Cuidad de México, CMX
+
+Axuliar Técnico en Histopatología | Agosto 2021 - Abril 2022
+
+**Universidad Nacional Autónoma de México** | Cuernavaca, MOR
+
+Licenciado en Ciencias Genómicas | Agosto 2022 - Presente
+
+## Experience
+
+**Genómica Evolutiva** | Estancia de investigación | Febrero 2023 - Present
+
